@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoodScanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Mood Scanner</string>
+    <string name="instructions">Press and hold to reveal your mood!</string>
+    <string name="yourMood">Your Mood:</string>
+    <string name="resultMood"></string>
+</resources>
